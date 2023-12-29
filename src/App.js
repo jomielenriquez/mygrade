@@ -1,10 +1,11 @@
 // App.js
 import React from 'react';
 import GradeLookup from './GradeLookup';
+import './App.css';
 
 const App = () => {
   return (
-    <div>
+    <div className={"holder"}>
       <h1>Student Grade Lookup</h1>
       <GradeLookup />
     </div>
