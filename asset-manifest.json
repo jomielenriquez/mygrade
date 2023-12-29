@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mygrade/static/css/main.da89b7d5.css",
-    "main.js": "/mygrade/static/js/main.bae824ba.js",
+    "main.js": "/mygrade/static/js/main.b70f96f9.js",
     "static/js/787.7becd909.chunk.js": "/mygrade/static/js/787.7becd909.chunk.js",
     "index.html": "/mygrade/index.html",
     "main.da89b7d5.css.map": "/mygrade/static/css/main.da89b7d5.css.map",
-    "main.bae824ba.js.map": "/mygrade/static/js/main.bae824ba.js.map",
+    "main.b70f96f9.js.map": "/mygrade/static/js/main.b70f96f9.js.map",
     "787.7becd909.chunk.js.map": "/mygrade/static/js/787.7becd909.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da89b7d5.css",
-    "static/js/main.bae824ba.js"
+    "static/js/main.b70f96f9.js"
   ]
 }
